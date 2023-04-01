@@ -20,6 +20,6 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / MACHINE LEARNING / ARTIFICIAL INTELI
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MasrulSakib&show_icons=true&theme=dracula) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MasrulSakib)  
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasrulSakib&theme=dracula)](https://github.com/MasrulSakib/github-readme-activity-graph)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MasrulSakib)  
