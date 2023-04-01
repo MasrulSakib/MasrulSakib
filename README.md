@@ -23,11 +23,3 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / MACHINE LEARNING / ARTIFICIAL INTELI
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MasrulSakib)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MasrulSakib)  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
