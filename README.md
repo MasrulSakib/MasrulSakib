@@ -1,7 +1,7 @@
 ![Web developer](https://wallpaperaccess.com/full/1947431.jpg)
 
 ### Hi there 👋, my name is Md. Masrul Sakib
-#### Web developer
+#### Web Developer
 
 As a Developer, I use my expertise in programming languages and tools to develop and maintain high-quality software projects.
 
