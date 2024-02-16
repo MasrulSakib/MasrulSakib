@@ -5,12 +5,12 @@
 
 As a Developer, I use my expertise in programming languages and tools to develop and maintain high-quality software projects.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / MACHINE LEARNING / ARTIFICIAL INTELIGENCE / C / C++ 
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND / REACT JS / MACHINE LEARNING / C / C++ 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web development 
+- 🌱 I’m currently learning Next Js. 
+- 👯 I’m looking to collaborate on GitHub.
+- 💬 Ask me about Web development.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MasrulSakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masrul-sakib-1a668223b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' alt='facebook' height='40'>](https://www.facebook.com/masrul.sakib)  
 
