@@ -5,10 +5,8 @@
 
 As a Developer, I use my expertise in programming languages and tools to develop and maintain high-quality software projects.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / REACT JS / MACHINE LEARNING / C / C++ 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next Js. 
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT / REACT JS / NEXT JS / EXPRESS JS / NODE JS / MONGODB / MACHINE LEARNING / C / C++ 
+  
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about Web development.
 
