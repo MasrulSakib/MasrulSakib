@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Md. Masrul Sakib
+# Hi there, I'm Md. Masrul Sakib
 
 ### AI/ML Engineer | Software Engineer
 
@@ -8,7 +8,7 @@ I enjoy building intelligent, scalable applications by combining software engine
 
 ---
 
-## 🧠 AI/ML Skills
+## AI/ML Skills
 
 **Machine Learning:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs)
 
@@ -20,51 +20,57 @@ I enjoy building intelligent, scalable applications by combining software engine
 
 ---
 
-## 💻 Software Engineering
+### Software Engineering
 
-**Programming:** Python, JavaScript, TypeScript
+**Programming:** Python, JavaScript, TypeScript.
 
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+**Frontend:** HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, React.js, Next.js.
 
-**Backend:** Node.js, Express.js, FastAPI
+**Backend:** Node.js, Express.js, FastAPI.
 
-**Databases:** PostgreSQL, MongoDB
+**State Management & APIs:** Redux Toolkit, Context API, RESTful APIs, CRUD Operations.
 
-**Tools:** Docker, Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+**Authentication & Security:** Firebase Authentication, NextAuth.js, JWT.
+
+**Databases:** PostgreSQL, MongoDB, Neon.
+
+**Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Render, Firebase.
+
+**Development Tools:** Docker, Jupyter Notebook, Google Colab, VS Code.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 Sentiment Analysis on IMDB Movie Reviews
+### [Sentiment Analysis on IMDB Movie Reviews ↗](https://github.com/MasrulSakib/imdb-sentiment-analysis)
 - Compared TF-IDF, Word2Vec, and fine-tuned BERT for sentiment classification.
 - BERT achieved **92.12% accuracy** and **0.9220 F1-score**.
-- **Technologies:** Python, NLP, BERT, Hugging Face Transformers, Scikit-learn
+- **Technologies:** Python, NLP, TF-IDF, Word2Vec, BERT, Hugging Face Transformers, Scikit-learn
 
-### 💴 Bangladeshi Taka Note Detection
+### [Bangladeshi Taka Note Detection ↗](https://github.com/MasrulSakib/taka-note-detection-using-docker)
 - YOLOv8-based detection and classification of Bangladeshi currency notes.
 - Built and deployed a REST API using FastAPI and Docker.
-- **Technologies:** Python, YOLOv8, Computer Vision, FastAPI, Docker
+- **Technologies:** Python, YOLOv8, Computer Vision, Object Detection, FastAPI, REST API, Docker
 
-### 👥 People Tracking & Movement Analytics
+### [People Tracking & Movement Analytics System ↗](https://github.com/MasrulSakib/people-flow-detection)
 - Developed a computer vision system for people detection and tracking.
 - Generated heatmaps to analyze movement patterns and people flow.
-- **Technologies:** Python, Computer Vision, Object Tracking, OpenCV
+- **Technologies:** Python, Computer Vision, Object Tracking, OpenCV, Heatmap Visualization
 
-### 👕 Virtual Try-On System
+### [Virtual Try-On System Using Computer Vision ↗](https://colab.research.google.com/drive/1JXmnrXQqnTVtcErjYrCLvIAVNRhqWscR?usp=sharing)
 - Developed a computer vision-based clothing overlay system.
 - Applied image processing and visual alignment techniques.
-- **Technologies:** Python, Computer Vision, Image Processing
+- **Technologies:** Python, Computer Vision, Image Processing, Image Overlay, Visual Alignment
 
-### 🏋️ FitForgeAI Gym Planner
+### [FitForgeAI Gym Planner ↗](https://github.com/MasrulSakib/FitForgeAI-gym-planner)
 - Full-stack fitness planning and workout management platform.
-- **Technologies:** React.js, Node.js, Express.js, PostgreSQL
+- **Technologies:** PostgreSQL, Express.js, React.js, Node.js
 
 ---
 
-## 📚 Academic Research
+## Academic Research
 
-### Detection of COVID-19 From X-Ray Images Using Machine Learning Models
+### [Detection of COVID-19 From X-Ray Images Using Machine Learning Models ↗](https://doi.org/10.1007/978-981-19-7660-5_68)
 
 Published conference paper in **Springer Nature (2023)**.
 
@@ -74,14 +80,14 @@ Research focused on deep CNN-based approaches for detecting COVID-19 from chest 
 
 ---
 
-## 🎓 Courses & Learning
+## Courses & Learning
 
 - **AI & ML Engineering Bootcamp — Ostad** *(Ongoing)*
 - **Complete Web Development Course — Programming Hero**
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MasrulSakib&show_icons=true&theme=dracula" alt="Masrul Sakib's GitHub Stats" />
