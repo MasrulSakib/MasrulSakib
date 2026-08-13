@@ -57,7 +57,7 @@ I enjoy building intelligent, scalable applications by combining software engine
 - Generated heatmaps to analyze movement patterns and people flow.
 - **Technologies:** Python, Computer Vision, Object Tracking, OpenCV, Heatmap Visualization
 
-### [Virtual Try-On System Using Computer Vision ↗](https://colab.research.google.com/drive/1JXmnrXQqnTVtcErjYrCLvIAVNRhqWscR?usp=sharing)
+### [Virtual Try-On System Using Computer Vision ↗](https://github.com/MasrulSakib/virtual_try_on_system_using_computer_vision)
 - Developed a computer vision-based clothing overlay system.
 - Applied image processing and visual alignment techniques.
 - **Technologies:** Python, Computer Vision, Image Processing, Image Overlay, Visual Alignment
