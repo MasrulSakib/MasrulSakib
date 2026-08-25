@@ -81,6 +81,7 @@ Developed a deep CNN-based approach for detecting COVID-19 from chest X-ray imag
 ## Courses & Learning
 
 - **AI & ML Engineering Bootcamp — Ostad** *(Ongoing)*
+- **Complete Web Development Course — Programming Hero**
 
 ---
 
