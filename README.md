@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Masrul Sakib
 
-### AI/ML Engineer | Data Scientist | Software Engineer
+### AI/ML Engineer | Software Engineer
 
 AI/ML Engineer with a software engineering foundation, focused on NLP, computer vision, and deploying models into production with FastAPI and Docker. Author of a peer-reviewed Springer Nature paper on CNN-based COVID-19 detection from chest X-rays. Built and shipped end-to-end ML projects spanning sentiment analysis, object detection, and generative computer vision. Currently deepening ML foundations through the Ostad AI & ML Engineering Bootcamp.
 
