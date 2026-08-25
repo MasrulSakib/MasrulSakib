@@ -1,10 +1,20 @@
 # Hi there, I'm Md. Masrul Sakib
 
-### AI/ML Engineer | Software Engineer
+### AI/ML Engineer | Data Scientist | Software Engineer
 
-I'm a Software Engineer transitioning into AI/ML Engineering, with professional experience in frontend and SaaS development and hands-on experience in Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs.
+AI/ML Engineer with a software engineering foundation, focused on NLP, computer vision, and deploying models into production with FastAPI and Docker. Author of a peer-reviewed Springer Nature paper on CNN-based COVID-19 detection from chest X-rays. Built and shipped end-to-end ML projects spanning sentiment analysis, object detection, and generative computer vision. Currently deepening ML foundations through the Ostad AI & ML Engineering Bootcamp.
 
-I enjoy building intelligent, scalable applications by combining software engineering with AI/ML.
+---
+
+## Academic Research
+
+### [Detection of COVID-19 From X-Ray Images Using Machine Learning Models ↗](https://doi.org/10.1007/978-981-19-7660-5_68)
+
+Published conference paper in **Springer Nature (2023)**.
+
+Developed a deep CNN-based approach for detecting COVID-19 from chest X-ray images; published in *Intelligent Sustainable Systems*, Lecture Notes in Networks and Systems, Vol. 578.
+
+**DOI:** [10.1007/978-981-19-7660-5_68](https://doi.org/10.1007/978-981-19-7660-5_68)
 
 ---
 
@@ -68,22 +78,9 @@ I enjoy building intelligent, scalable applications by combining software engine
 
 ---
 
-## Academic Research
-
-### [Detection of COVID-19 From X-Ray Images Using Machine Learning Models ↗](https://doi.org/10.1007/978-981-19-7660-5_68)
-
-Published conference paper in **Springer Nature (2023)**.
-
-Research focused on deep CNN-based approaches for detecting COVID-19 from chest X-ray images.
-
-**DOI:** [10.1007/978-981-19-7660-5_68](https://doi.org/10.1007/978-981-19-7660-5_68)
-
----
-
 ## Courses & Learning
 
 - **AI & ML Engineering Bootcamp — Ostad** *(Ongoing)*
-- **Complete Web Development Course — Programming Hero**
 
 ---
 
@@ -96,7 +93,7 @@ Research focused on deep CNN-based approaches for detecting COVID-19 from chest 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/MasrulSakib">
