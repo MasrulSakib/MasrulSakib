@@ -20,33 +20,37 @@ Developed a deep CNN-based approach for detecting COVID-19 from chest X-ray imag
 
 ## AI/ML Skills
 
-**Machine Learning:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs)
+**Machine Learning:** Supervised Learning, Unsupervised Learning, EDA, Data Preprocessing, Feature Engineering, Classification, Regression, Clustering, Model Selection, Cross-Validation, Model Evaluation, Hyperparameter Tuning
 
-**NLP:** Transformers, BERT, GPT, Attention Mechanism, TF-IDF, Word2Vec, GloVe, FastText
+**Deep Learning:** ANN, CNNs, Transfer Learning, Model Training & Optimization, TensorFlow, Keras, PyTorch
 
-**Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, FastAPI, NumPy, Pandas
+**NLP:** Text Preprocessing, Tokenization, Stopword Removal, Stemming, Lemmatization, TF-IDF, Word2Vec, GloVe, FastText, Word Embeddings, Attention Mechanisms, Transformers, BERT, GPT, LLMs
 
-**Computer Vision:** YOLOv8, Object Detection, Object Tracking, OpenCV, Image Processing
+**Computer Vision:** Image Processing, Image Classification, Object Detection, Object Tracking, Image Segmentation, Data Augmentation, OpenCV, YOLO/Ultralytics
+
+**AI/ML Engineering:** FastAPI, REST APIs, Pydantic, Uvicorn, Model Inference, Inference Pipelines, Model Deployment, Docker, MLflow, API Testing
+
+**Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, OpenCV, Ultralytics
 
 ---
 
 ### Software Engineering
 
-**Programming:** Python, JavaScript, TypeScript.
+**Programming:** Python, JavaScript, TypeScript
 
-**Frontend:** HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, React.js, Next.js.
+**Frontend:** HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, React.js, Next.js
 
-**Backend:** Node.js, Express.js, FastAPI.
+**Backend:** Node.js, Express.js, FastAPI
 
-**State Management & APIs:** Redux Toolkit, Context API, RESTful APIs, CRUD Operations.
+**State Management & APIs:** Redux Toolkit, Context API, RESTful APIs, CRUD Operations, API Integration
 
-**Authentication & Security:** Firebase Authentication, NextAuth.js, JWT.
+**Authentication & Security:** Firebase Authentication, NextAuth.js, JWT, CORS, Helmet
 
-**Databases:** PostgreSQL, MongoDB, Neon.
+**Databases:** PostgreSQL, MongoDB, Redis, Neon
 
-**Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Render, Firebase.
+**Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Render, Firebase, Docker
 
-**Development Tools:** Docker, Jupyter Notebook, Google Colab, VS Code.
+**Development Tools:** Jupyter Notebook, Google Colab, VS Code, Postman
 
 ---
 
