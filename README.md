@@ -18,19 +18,23 @@ Developed a deep CNN-based approach for detecting COVID-19 from chest X-ray imag
 
 ---
 
-## AI/ML Skills
+### Artificial Intelligence & Machine Learning
 
-**Machine Learning:** Supervised Learning, Unsupervised Learning, EDA, Data Preprocessing, Feature Engineering, Classification, Regression, Clustering, Model Selection, Cross-Validation, Model Evaluation, Hyperparameter Tuning
+**Machine Learning:** Supervised Learning, Unsupervised Learning, EDA, Data Preprocessing, Classification, Regression, Clustering, PCA, Feature Engineering, Cross-Validation, Model Evaluation, Hyperparameter Tuning
 
-**Deep Learning:** ANN, CNNs, Transfer Learning, Model Training & Optimization, TensorFlow, Keras, PyTorch
+**Deep Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Transfer Learning, Model Training & Optimization
 
-**NLP:** Text Preprocessing, Tokenization, Stopword Removal, Stemming, Lemmatization, TF-IDF, Word2Vec, GloVe, FastText, Word Embeddings, Attention Mechanisms, Transformers, BERT, GPT, LLMs
+**Generative AI & LLMs:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Multi-Agent Systems, Agent Orchestration, Tool Calling, Prompt Engineering, Embeddings, Vector Databases (FAISS, Chroma)
 
-**Computer Vision:** Image Processing, Image Classification, Object Detection, Object Tracking, Image Segmentation, Data Augmentation, OpenCV, YOLO/Ultralytics
+**Natural Language Processing:** Text Classification, Sentiment Analysis, Text Preprocessing, Tokenization, TF-IDF, Word2Vec, Transformers, BERT, GPT
 
-**AI/ML Engineering:** FastAPI, REST APIs, Pydantic, Uvicorn, Model Inference, Inference Pipelines, Model Deployment, Docker, MLflow, API Testing
+**Computer Vision:** Image Classification, Object Detection, Image Segmentation, Object Tracking, YOLOv11, Roboflow
 
-**Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, OpenCV, Ultralytics
+**AI Frameworks & Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, OpenCV, Ultralytics, NumPy, Pandas, Matplotlib
+
+**Generative AI Tools & Frameworks:** LangChain, CrewAI, OpenAI Agents SDK, Groq, Tavily, BGE-M3, Streamlit, Pydantic
+
+**ML Engineering:** Model Inference, Inference Pipelines, Model Deployment, MLflow
 
 ---
 
@@ -56,29 +60,35 @@ Developed a deep CNN-based approach for detecting COVID-19 from chest X-ray imag
 
 ## Featured Projects
 
-### [Sentiment Analysis on IMDB Movie Reviews ↗](https://github.com/MasrulSakib/imdb-sentiment-analysis)
-- Compared TF-IDF, Word2Vec, and fine-tuned BERT for sentiment classification.
-- BERT achieved **92.12% accuracy** and **0.9220 F1-score**.
-- **Technologies:** Python, NLP, TF-IDF, Word2Vec, BERT, Hugging Face Transformers, Scikit-learn
+### [DoubleDose AI ↗](https://github.com/MasrulSakib/doubledose-ai)
+- Developed an AI-powered medicine analysis platform to identify overlapping active ingredients across multiple medicines.
+- Integrated OCR and semantic medicine matching to extract and identify medicines from uploaded prescriptions or medicine images.
+- Implemented AI-generated ingredient explanations and medicine comparison through backend APIs.
+- **Technologies:** Python, FastAPI, Next.js, PostgreSQL, SQLAlchemy, Groq, RapidFuzz, OCR, Machine Learning
 
-### [Bangladeshi Taka Note Detection ↗](https://github.com/MasrulSakib/taka-note-detection-using-docker)
-- YOLOv8-based detection and classification of Bangladeshi currency notes.
-- Built and deployed a REST API using FastAPI and Docker.
-- **Technologies:** Python, YOLOv8, Computer Vision, Object Detection, FastAPI, REST API, Docker
+### [Leo — Multi-Agent AI Tutor ↗](https://github.com/MasrulSakib/leo-multi-agent-AI-tutor)
+- Built a multi-agent AI tutor with specialized Coordinator, Explainer, Quiz Master, and Evaluator agents using sequential orchestration.
+- Implemented structured quiz and evaluation outputs with real agent handoffs, student memory, and role-specific prompt templates.
+- Added an adaptive feedback loop that identifies weak areas, triggers targeted re-teaching, and generates follow-up quizzes.
+- **Technologies:** Python, CrewAI, Streamlit, Pydantic, Groq, LLMs, AI Agents
 
-### [People Tracking & Movement Analytics System ↗](https://github.com/MasrulSakib/people-flow-detection)
-- Developed a computer vision system for people detection and tracking.
-- Generated heatmaps to analyze movement patterns and people flow.
-- **Technologies:** Python, Computer Vision, Object Tracking, OpenCV, Heatmap Visualization
+### [Bengali RAG Knowledge Base Chatbot ↗](https://github.com/MasrulSakib/knowledge-base-bangla-rag-chatbot-with-vectorDB)
+- Built a Bengali RAG chatbot by crawling and processing 21 Wikisource pages, generating BGE-M3 embeddings, and indexing documents with FAISS.
+- Implemented semantic retrieval of the top 4 relevant chunks and context-grounded generation through Groq, with chapter-level source citations.
+- Achieved **9/10 evaluation accuracy** and **9/9 Hit@4 retrieval** on answerable test questions while preventing unsupported answers outside the knowledge base.
+- **Technologies:** Python, RAG, LangChain, FAISS, BGE-M3, Groq, Streamlit
 
-### [Virtual Try-On System Using Computer Vision ↗](https://github.com/MasrulSakib/virtual_try_on_system_using_computer_vision)
-- Developed a computer vision-based clothing overlay system.
-- Applied image processing and visual alignment techniques.
-- **Technologies:** Python, Computer Vision, Image Processing, Image Overlay, Visual Alignment
+### [Medical Multi-Tool AI Agent ↗](https://github.com/MasrulSakib/multi-tool-AI-agent-to-interact-with-medical-datasets-and-web)
+- Built a multi-tool AI agent that routes natural-language queries across Heart Disease, Cancer, Diabetes, and web-search tools.
+- Implemented text-to-SQL database querying with SQLite/Pandas and agent-based tool selection using LangChain.
+- Integrated Groq LLMs and Tavily to provide unified answers from structured datasets and open-domain medical knowledge.
+- **Technologies:** Python, LangChain, OpenAI Agents SDK, Groq, SQLite, Tavily, Pandas
 
-### [FitForgeAI Gym Planner ↗](https://github.com/MasrulSakib/FitForgeAI-gym-planner)
-- Full-stack fitness planning and workout management platform.
-- **Technologies:** PostgreSQL, Express.js, React.js, Node.js
+### [Bangladeshi Taka Banknote Detection ↗](https://github.com/MasrulSakib/taka-note-detection-using-docker)
+- Developed a YOLOv11-based object detection system for identifying Bangladeshi Taka banknote denominations.
+- Exposed model inference through a FastAPI REST API with structured prediction responses.
+- Containerized the inference service using Docker; documented sample inference achieved **79.93 ms latency** with **0.7036 confidence**.
+- **Technologies:** Python, YOLOv11, Computer Vision, FastAPI, Docker
 
 ---
 
